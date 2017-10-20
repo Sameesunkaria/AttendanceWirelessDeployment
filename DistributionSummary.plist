@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Attendance.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CA162F69DE7B0DA16DC18BB19BF99B67BE15179D</string>
+				<key>dateExpires</key>
+				<string>9/26/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CA162F69DE7B0DA16DC18BB19BF99B67BE15179D</string>
+						<key>dateExpires</key>
+						<string>9/26/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CryptoSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8M5NP3VM5V</string>
+						<key>name</key>
+						<string>Khushal Dikha</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CA162F69DE7B0DA16DC18BB19BF99B67BE15179D</string>
+						<key>dateExpires</key>
+						<string>9/26/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftSocket.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8M5NP3VM5V</string>
+						<key>name</key>
+						<string>Khushal Dikha</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8M5NP3VM5V.com.samarDeploy.Attendance</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8M5NP3VM5V</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8M5NP3VM5V.com.samarDeploy.Attendance</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Attendance.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0b65dded-8e74-45cc-a7ce-27bddf7fd3a4</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8M5NP3VM5V</string>
+				<key>name</key>
+				<string>Khushal Dikha</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
